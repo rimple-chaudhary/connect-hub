@@ -1,0 +1,88 @@
+.main-container {
+  padding: 24;
+  min-height: 100%;
+  background-image: url("https://wallpapercrafter.com/desktop1/537770-light-background-Wallpaper-color-backgrounds-abstract.jpg");
+  background-repeat: repeat-x;
+  background-size: cover;
+}
+
+.home-container {
+  display: flex;
+  color: rgb(187, 52, 52);
+  padding: 0px 80px;
+  font-size:x-large
+}
+
+.textArea-container {
+  padding: 0px 80px;
+  display: inline-block;
+  position: relative;
+  width: 100%;
+}
+
+.cards-container {
+  align-items: center;
+  justify-content: center;
+  margin-top: 25px;
+  padding-left: 35vh;
+}
+
+.ant-btn.ant-btn-lg {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.css-bhp9pd-MuiPaper-root-MuiCard-root {
+  width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: center ;
+  margin-bottom: 20px;
+}
+.textArea {
+  color: black;
+  display: block;
+  width: 100%;
+  margin-bottom: 07vh;
+}
+.cardMedia-container {
+  background-color: #d6c9c9;
+  height: 300px;
+  width: 70vh !important;
+  padding: 0px, 25px !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ant-upload-wrapper.ant-upload-picture-card-wrapper
+  .ant-upload.ant-upload-select
+  > .ant-upload {
+  color: white;
+  
+}
+.upload-container {
+  bottom: 10px;
+  right: 100px;
+  
+}
+.ant-upload-wrapper.ant-upload-picture-card-wrapper
+  .ant-upload.ant-upload-select {
+  border: 0px;
+  font-size: 20px;
+  font-weight: 600;
+}
+.title-container{
+  margin-bottom: 20px;
+  width: 100%;
+  height: 7vh;
+
+}
+.friend-container{
+  display:flex;
+  gap: 4px;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+}
+.feed-container{
+  color: blue
+}
